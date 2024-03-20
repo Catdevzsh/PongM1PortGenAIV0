@@ -27,20 +27,4 @@ cd inworld-ai-moe
 ./setup.sh  # Or the relevant command to set up your project
 Usage
 
-After installation, you can run the proof of concept using the following command:
-
-bash
-Copy code
-./run_inworld_ai_moe
-Contributing
-
-We welcome contributions to the Inworld AI MoE project! If you're interested in enhancing the system or suggesting new features, please feel free to submit a pull request or open an issue.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Acknowledgements
-
-Inspired by the Cardinal System from Sword Art Online.
-Special thanks to the Flames Systems team and all contributors.
+After installation, you can run the proof of concpet on a low end RTX [plz use M2/M1 max ] Enjoy. - Docs by GPT4
