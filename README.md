@@ -1,9 +1,7 @@
 # PongM1PortGenAIV0
 1.0 4.20.24$
 
-ChatGPT
-Sure, I can help you create a README for your project titled "Inworld AI MoE (Mixture of Experts) Proof of Concept for Generating AI Games 20XX". This README will be structured to provide essential information about the project, reflecting the influence of "Flames Systems - Cardinal System" from SAO (Sword Art Online). Here's a sample README you can use as a basis:
-
+ 
 Inworld AI MoE Proof of Concept for Generating AI Games 20XX
 
 Welcome to the Inworld AI MoE Proof of Concept for Generating AI Games 20XX, a cutting-edge initiative by Flames Systems, inspired by the Cardinal System from Sword Art Online. This project is aimed at exploring the possibilities of AI-driven game development, utilizing a Mixture of Experts (MoE) approach in the C programming language.
